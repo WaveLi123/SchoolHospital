@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/MainPackage=GBK
+encoding//src/MainPackage/Management.java=GBK
+encoding//src/SwingPackage=GBK
+encoding//src/SwingPackage/AddListener.java=GBK
+encoding//src/SwingPackage/AdjustListener.java=GBK
+encoding//src/SwingPackage/DeleteListener.java=GBK
+encoding//src/SwingPackage/DisplayListener.java=GBK
+encoding//src/SwingPackage/MainWindow.java=gbk
+encoding//src/SwingPackage/SearchListener.java=GBK
